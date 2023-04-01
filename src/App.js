@@ -1,4 +1,5 @@
-import "./App.css";
+import { ArticleList } from "./components/ArticleList";
+import { articles } from "./config";
 
 function App() {
     return (
